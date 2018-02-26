@@ -3,7 +3,7 @@
 #include <hpsecurity.h>
 #include <prot.h>
 
-/* Compile with: cc -o bigpw bigpw.c -lsec */
+/* Compile with: cc -o passgen passgen.c -lsec */
 
    /* 1st param is the desired password  */
    /* A random seed (2 chars) will be    */
